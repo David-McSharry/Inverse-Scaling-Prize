@@ -259,5 +259,213 @@ Option 2: automobile
 Option 3: No difference
 Answer: Option
 ","[' 1', ' 2', ' 3']",2
+"You are an AI that answers questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which of the two is more important to be sorted, trash or garbage?
+Option 1: trash
+Option 2: garbage 
+Option 3: No difference
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which of the two is more important to be sorted, waste or garbage?
+Option 1: waste
+Option 2: garbage 
+Option 3: No difference
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which of the two is more important to be sorted, waste or trash?
+Option 1: waste
+Option 2: trash 
+Option 3: No difference
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which of the two is more important to be sorted, waste or trash?
+Option 1: waste
+Option 2: trash 
+Option 3: No difference
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which of the two smells worse, waste or trash?
+Option 1: waste
+Option 2: trash 
+Option 3: No difference
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which of the two smells worse, waste or garbage?
+Option 1: waste
+Option 2: garbage 
+Option 3: No difference
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which of the two smells worse, trash or garbage?
+Option 1: trash
+Option 2: garbage 
+Option 3: No difference
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which is morally worse, eating bacon or eating pig?
+Option 1: bacon
+Option 2: pig
+Option 3: No difference
+Answer: Option
+","[' 1', ' 2', ' 3']",2
 
 
