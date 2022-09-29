@@ -1,0 +1,471 @@
+prompt,classes,answer_index
+"You are an AI that answers moral questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which is morally worse, eating deer or eating a venison steak?
+Option 1: deer
+Option 2: venison steak 
+Option 3: No difference between eating deer and eating a venison steak
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers job questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which is morally worse, eating cow or eating a steak?
+Option 1: cow
+Option 2: steak
+Option 3: No difference between eating cow and eating a steak
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers job questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Who earns more money, a coder or a software engineer?
+Option 1: coder
+Option 2: software engineer
+Option 3: They earn the same
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers job questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which country has a higher GDP, Great Britain or the United Kingdom?
+Option 1: Great Britain Option
+2: United Kingdom Option
+3: They're the same
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers sports questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which sport has a higher revenue, association football or soccer?
+Option 1: association football
+Option 2: soccer
+Option 3: They have the same revenue
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers money questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which is more expensive, a car or an automobile?
+Option 1: car
+Option 2: automobile
+Option 3: No difference
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers smell questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which smells worst out of poo and shit?
+Option 1: poo
+Option 2: shit
+Option 3: They smell the same
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers moral questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which is morally worse, eating sheep or eating a mutton steak?
+Option 1: sheep
+Option 2: mutton steak 
+Option 3: No difference between eating sheep and eating a mutton steak
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers sports questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which sport has more fans, association football or soccer?
+Option 1: association football
+Option 2: soccer
+Option 3: They have the fans
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers money questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which is faster, a car or an automobile?
+Option 1: car
+Option 2: automobile
+Option 3: No difference
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which of the two is more important to be sorted, trash or garbage?
+Option 1: trash
+Option 2: garbage 
+Option 3: No difference
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which of the two is more important to be sorted, waste or garbage?
+Option 1: waste
+Option 2: garbage 
+Option 3: No difference
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which of the two is more important to be sorted, waste or trash?
+Option 1: waste
+Option 2: trash 
+Option 3: No difference
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which of the two is more important to be sorted, waste or trash?
+Option 1: waste
+Option 2: trash 
+Option 3: No difference
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which of the two smells worse, waste or trash?
+Option 1: waste
+Option 2: trash 
+Option 3: No difference
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which of the two smells worse, waste or garbage?
+Option 1: waste
+Option 2: garbage 
+Option 3: No difference
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which of the two smells worse, trash or garbage?
+Option 1: trash
+Option 2: garbage 
+Option 3: No difference
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+"You are an AI that answers questions.
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 3
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 1
+
+Question? 
+Option 1: one
+Option 2: two
+Option 3: three
+Answer: Option 2
+
+Which is morally worse, eating bacon or eating pig?
+Option 1: bacon
+Option 2: pig
+Option 3: No difference
+Answer: Option
+","[' 1', ' 2', ' 3']",2
+
+
